@@ -1,0 +1,35 @@
+body {
+	background-color:#f4fef6 ;
+	/*background-repeat: no-repeat;
+	background-size: cover; */
+	font-family: Inter Tight;
+}
+header {
+	background-color:#cce8f4;
+	height:50px;
+}
+main {
+}
+footer {
+	background-color:#b3d5e9;
+}
+h1 {
+	text-align:center;
+	
+}
+p {
+	text-indent:50px;
+	color:darkblue;
+}
+table {
+	border:2px solid darkblue; 
+	border-collapse: collapse;
+}
+th, td {
+	border:2px solid darkblue;
+}
+ul {
+	list-style: url('svinochka2.png');
+}
+
+
